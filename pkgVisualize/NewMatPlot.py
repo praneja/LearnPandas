@@ -16,6 +16,7 @@ import numpy as np
 # plt.ylabel("Some Numbers")
 # plt.show()
 print("abc")
+print("xyz")
 arr = np.arange(0.0,5.0,0.2)
 plt.plot(arr,arr,"r--",arr,arr**2,"bs",arr,arr**3,"g^")
 plt.show()
