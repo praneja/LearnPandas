@@ -18,3 +18,4 @@ a[[0,2]] = a[[2,0]]
 print("\na =\n", a)
 print("abc")
 print("mnc")
+print("mnv")
